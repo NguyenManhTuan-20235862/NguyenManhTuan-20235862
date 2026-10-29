@@ -1,51 +1,84 @@
-# Hi, Welcome to my github!
-# I'm Nguyen Manh Tuan! 👋
+# Hi, I'm Nguyen Manh Tuan 👋
 
-I am a passionate programmer who loves to learn and develop myself, especially in the field of web development. I am always looking for new knowledge and ready to face challenges to create quality products.
+I'm a developer focused on full-stack web development, with an interest in
+backend engineering and AI-powered applications.
 
----
+I enjoy building practical products—from e-commerce platforms and task
+management systems to tools that support my own learning.
+
+- 🔨 Building web applications with React, Next.js, Node.js, and FastAPI
+- 🌱 Exploring C# / ASP.NET Core and AI integration with LangChain
+- 🧩 Interested in API design, authentication, database consistency, and testing
 
 ## 🛠️ Tech Stack
 
-### Frontend
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
-[![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+**Frontend**
 
-### Backend
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![SpringBoot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### Tools & Others
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)
+**Backend & AI**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
----
+**Databases & Tools**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## 🚀 Featured Projects
-<a href="https://github.com/vuloi05/Household-Registration-Management-System">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuloi05&repo=Household-Registration-Management-System&theme=radical" />
-</a>
-<a href="https://github.com/NguyenManhTuan-20235862/expense_tracker">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NguyenManhTuan-20235862&repo=expense_tracker&theme=radical" />
-</a>    
 
----
+### 🤖 [AI-Powered E-Commerce Platform](https://github.com/NguyenManhTuan-20235862/AI-Powered-E-Commerce-Platform)
+An e-commerce project combining shopping workflows with an AI assistant
+and real-time communication through WebSocket and Server-Sent Events.
+
+**Stack:** FastAPI · Next.js · TypeScript · MySQL · MongoDB · Redis · LangChain · Docker
+
+### 📋 [Task Management](https://github.com/NguyenManhTuan-20235862/Task-Management)
+An internal task management application with Admin, Project Manager,
+and Developer roles, project assignments, progress tracking, and comments.
+
+**Stack:** Next.js · TypeScript · PostgreSQL · Prisma · Auth.js · Vitest · Playwright
+
+### 🛍️ [Vibe Urban — Fashion E-Commerce](https://github.com/NguyenManhTuan-20235862/ecommerce-store)
+A men's fashion storefront and admin panel featuring product variants,
+cart and checkout flows, wishlists, reviews, and promotional content.
+
+**Stack:** React · Express · MongoDB · Tailwind CSS · Zustand · Docker
+
+### 🏪 [MiniMart — ElectroShop](https://github.com/NguyenManhTuan-20235862/MiniMart-Website)
+An electronics shopping website built with a layered architecture,
+exploring dependency injection, data access, and transaction handling.
+
+**Stack:** C# · ASP.NET Core MVC · EF Core · Dapper · SQL Server · xUnit
+
+## 🌱 More Projects
+
+- [Expense Tracker](https://github.com/NguyenManhTuan-20235862/expense_tracker)
+  — Personal finance tracking with charts, Excel export, and English,
+  Japanese, and Vietnamese interfaces.
+- [JLPT N3 Quiz](https://github.com/NguyenManhTuan-20235862/quiz-n3-mimikara)
+  — A Japanese study tool with vocabulary and grammar quizzes,
+  flashcards, typing practice, and timed tests.
+- [TinyShell](https://github.com/NguyenManhTuan-20235862/TinyShell-)
+  — A Windows command-line shell built with C++ and Windows APIs.
 
 ## 📫 Contact
-<a href="https://www.facebook.com/share/1CfRTzCfjX/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
-</a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=loivtcris7@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
+
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:loivtcris7@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/share/1CfRTzCfjX/)
